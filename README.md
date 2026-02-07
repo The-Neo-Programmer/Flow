@@ -29,5 +29,5 @@ npm run dev
 ```
 
 ## 📹 Demo Video
-[Link to Video]
+[[Link to Video]](https://flow-zeta-navy.vercel.app/)
 
