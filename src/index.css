@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-text font-sans antialiased;
+    /* FIX 1: More hues of blue */
+    background-image: radial-gradient(circle at 50% 0%, #1e3a8a 0%, #020617 100%);
+    min-height: 100vh;
+  }
+}
+
+@layer utilities {
+  .glass-card {
+    @apply bg-surface backdrop-blur-md border border-white/10 shadow-xl rounded-xl;
+  }
+
+  .glass-input {
+    @apply bg-white/5 border border-white/10 rounded-lg px-4 py-2 text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-primary/50 transition-all;
+  }
+
+  /* FIX 5: Dropdown text visibility */
+  select.glass-input option {
+    @apply text-black bg-white;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #020617;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
