@@ -20,6 +20,10 @@
 
 **Flow** is an intelligent study planning application that transforms your academic goals into actionable, personalized schedules. Using advanced algorithms, Flow analyzes your subjects, confidence levels, and available time to generate optimized study plans that adapt to your learning pace.
 
+## Demonstration Video
+
+[Demo Video (https://drive.google.com/drive/folders/1hsgjFQeIW51-Siq6ZHWEGBxbk7UYjLHQ?usp=sharing)]
+
 ### ✨ Key Highlights
 
 - 🤖 **AI-Powered Scheduling**: Dynamic algorithm allocates study hours based on subject difficulty and your confidence
