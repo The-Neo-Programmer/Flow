@@ -22,7 +22,7 @@
 
 ## Demonstration Video
 
-[Demo Video (https://drive.google.com/drive/folders/1hsgjFQeIW51-Siq6ZHWEGBxbk7UYjLHQ?usp=sharing)]
+[Demo Video (https://drive.google.com/file/d/1yACnk1BfuqxKkldwHFkf-J2B6Sczdvh7/view?usp=sharing)]
 
 ### ✨ Key Highlights
 
